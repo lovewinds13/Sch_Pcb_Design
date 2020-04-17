@@ -4,7 +4,7 @@
 
 My csdn blog：https://blog.csdn.net/wwt18811707971
 
-# Sch_Pcb_Design
+# PADS 格式
 
 	硬件原理图，PCB等设计分享
 	

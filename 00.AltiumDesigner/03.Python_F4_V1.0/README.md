@@ -4,9 +4,13 @@
 
 My csdn blog：https://blog.csdn.net/wwt18811707971
 
-# Sch_Pcb_Design
+# stm32f4:
 
-	硬件原理图，PCB等设计分享
+## 	(1)stm32f4 与 Python 学习开发板电路设计;
+
+##	(2)已打样焊接验证,可使用;
+
+
 	
 	
 

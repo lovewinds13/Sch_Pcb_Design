@@ -4,9 +4,11 @@
 
 My csdn blog：https://blog.csdn.net/wwt18811707971
 
-# Sch_Pcb_Design
+# stm32f103rc
 
-	硬件原理图，PCB等设计分享
+## 正点原子f013开发板原理图学习设计;
+
+
 	
 	
 
